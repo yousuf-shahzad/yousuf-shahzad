@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-shahzad&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-shahzad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousuf-shahzad" alt="yousuf-shahzad" /></a> </p>
-
 - 🔭 I’m currently working on **making my own portfolio website!**
 
 - 🌱 I’m currently learning **expressjs, how to make it work with requests and make my own API.**
