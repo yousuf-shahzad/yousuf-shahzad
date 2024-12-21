@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousuf-sh)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yousuf-shahzad)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yousuf-shahzad)
+![Profile Views](https://komarev.com/ghpvc/?username=yousuf-shahzad&style=for-the-badge&abbreviated=true&color=1A1A1A)
 
 A-level student passionate about software development and emerging technologies. Currently studying Computer Science, Mathematics, and Further Mathematics. Based in the UK 🇬🇧
 
