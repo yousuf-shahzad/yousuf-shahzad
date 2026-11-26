@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yousuf-shahzad/yousuf-shahzad/main/banner.png" alt="yousuf@yousuf.sh:~$ whoami — yousuf shahzad. cs @ ucl / full-stack / hackathon builder" width="100%">
+<img src="https://raw.githubusercontent.com/yousuf-shahzad/yousuf-shahzad/refs/heads/main/banner.png" alt="yousuf@yousuf.sh:~$ whoami — yousuf shahzad. cs @ ucl / full-stack / hackathon builder" width="100%">
 
 [![Website](https://img.shields.io/badge/yousuf.sh-E5B675?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yousuf.sh)
 [![Email](https://img.shields.io/badge/contact@yousuf.sh-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@yousuf.sh)
